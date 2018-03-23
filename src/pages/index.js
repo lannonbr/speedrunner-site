@@ -44,9 +44,8 @@ const IndexPage = () => (
           "Alexa, ask speedrunner to search for Super Mario Odyssey"
         </AlexaSaying>
         <AlexaSaying>
-          "Alexa, ask speedrunner for 100% runs of Portal 2"
+          "Alexa, ask speedrunner for 100% runs of Celeste"
         </AlexaSaying>
-        {/* <h4>"Alexa, ask speedrunner for 100% runs of Portal 2"</h4> */}
       </div>
     </AlexaSayingsContainer>
     <h2>Features</h2>
