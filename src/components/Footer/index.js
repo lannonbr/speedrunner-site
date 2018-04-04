@@ -20,7 +20,7 @@ const Footer = () => (
         margin: "0 auto"
       }}
     >
-      &copy; Copyright Benjamin Lannon 2017 - 2018 |{" "}
+      &copy; Copyright <a href="https://lannonbr.com">Benjamin Lannon</a> 2017 - 2018 |{" "}
       <span>
         Photo by{" "}
         <a href="https://unsplash.com/photos/u0FDwnbODKs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
