@@ -55,8 +55,11 @@ const IndexPage = () => (
         Get speedruns for any game based on various categories (Any%, 100%,
         etc.)
       </li>
-      <li>Get information on Speedrunners</li>
-      <li>Get a briefing on the most recent verified runs</li>
+      <li>Get information on Speedrunners (Coming in a future update)</li>
+      <li>
+        Get a briefing on the most recent verified runs (Coming in a future
+        update)
+      </li>
     </ul>
     <h2>Getting Started</h2>
     <p>To begin, All you need to say is: "Alexa, Open Speedrunner"</p>
