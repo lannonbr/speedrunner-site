@@ -61,7 +61,7 @@ const IndexPage = () => (
       </li>
     </ul>
     <h2>Getting Started</h2>
-    <p>To begin, All you need to say is: "Alexa, Open Speedrunner"</p>
+    <p>To begin, say: "Alexa, Open Speedrunner"</p>
     <h2>Credits</h2>
     Credits to Speedrun.com for their API
     <img src={Speedrun} alt="speedrun.com logo" />
